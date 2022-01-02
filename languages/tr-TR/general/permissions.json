@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Üyenin bu kanaldaki yetkilerini gösterir",
+    "USAGE": "{{prefix}}permissions (@üye)",
+    "EXAMPLES": "{{prefix}}permissions\n{{prefix}}permissions @Sitou#4579",
+    "TITLE": "{{user}} Kullanıcı'sının {{channel}} kanalındaki yetkisi"
+}

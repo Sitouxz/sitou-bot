@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Menunjukan tautan SitouBot!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Tautan SitouBot",
+    "TIP": "Kirim `{{prefix}}invite copy` untuk bisa menyalin tautan undangan!",
+    "ADD": "Undang SitouBot",
+    "VOTE": "Beri suara untuk SitouBot",
+    "SUPPORT": "Dapatkan Bantuan"
+}

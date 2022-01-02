@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"Ágy\" kép generálása",
+    "USAGE": "{{prefix}}bee [@tag1] (@tag2)",
+    "EXAMPLES": "{{prefix}}bed @Sitou#4579\n{{prefix}}bed @Sitou#4579 @Marty#0303"
+}

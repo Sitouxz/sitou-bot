@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Generates a \"phcomment\" image",
+    "USAGE": "{{prefix}}phcomment (@member) [text]",
+    "EXAMPLES": "{{prefix}}phcomment Hoi!\n{{prefix}}phcomment @Sitou#4579 Hoi!",
+    "MISSING_TEXT": "Please specify the comment text!"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "SitouBot linkekjeinek megtekintése!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "SitouBot Linkjei",
+    "TIP": "Írd be a `{{prefix}}invite copy` parancsot, hogy másold a meghívó linket!",
+    "ADD": "SitouBot Meghívása",
+    "VOTE": "Szavazás az Atlantára",
+    "SUPPORT": "Támogatást kapni"
+}

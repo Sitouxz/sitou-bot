@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"ütő pofon\" kép generálása",
+    "USAGE": "{{prefix}}batslap (@tag1) (@tag2)",
+    "EXAMPLES": "{{prefix}}batslap\n{{prefix}}batslap @Sitou#4579 @Sitou#4579"
+}

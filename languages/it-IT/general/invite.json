@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Mostra i link di SitouBot!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Link di SitouBot",
+    "TIP": "Invia `{{prefix}}invite copy` per poter copiare il link di invito!",
+    "ADD": "Invita SitouBot",
+    "VOTE": "Vota SitouBot",
+    "SUPPORT": "Supporto"
+}
